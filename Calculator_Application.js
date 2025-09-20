@@ -8,3 +8,8 @@ let p = 20;
 let q = 10;
 let r = p - q;
 console.log("Substraction is: " + r);
+// ############## Added Code for Multiplication ##############
+let x = 20;
+let y = 10;
+let z = x - y;
+console.log("Multiplication is: " + z);
